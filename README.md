@@ -11,8 +11,6 @@ To use the Data Encryption Standard (DES) algorithm for a practical application,
 4. DES applies initial and final permutations along with 16 rounds of substitution and permutation transformations to produce ciphertext.
 
 ## Program:
-DEVELOPED BY: JEEVITHA S  
-REGISTER NUMBER:212222100016
 ```
 #include <stdio.h>
 
